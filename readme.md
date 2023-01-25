@@ -1,3 +1,3 @@
 # Project Snapshots
 ## Pet Feeder
-![Plot](./Design Drawings/FoodDispenser.png)
+![plot](./DesignDrawings/FoodDispenser.png)
