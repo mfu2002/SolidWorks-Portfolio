@@ -17,7 +17,7 @@
 ![Basic Features](./DesignDrawings/09.jpg)
 ![Basic Features](./DesignDrawings/08.jpg)
 ![Basic Features](./DesignDrawings/07.png)
-![Basic Features](./DesignDrawings/06.png)
+![Basic Features](./DesignDrawings/06.PNG)
 ## Sketches
 ![Sketches](./DesignDrawings/05.png)
 ![Sketches](./DesignDrawings/04.png)
@@ -25,4 +25,4 @@
 ![Patterns](./DesignDrawings/03.png)
 ![Patterns](./DesignDrawings/02.jpg)
 ## Relationships
-![Relationships](./DesignDrawings/01.png)
+![Relationships](./DesignDrawings/01.PNG)
